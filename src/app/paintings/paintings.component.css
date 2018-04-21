@@ -1,0 +1,29 @@
+.close:focus {
+    outline: none;
+}
+
+.close {
+    font-size: 3em;
+    color: rgb(238, 78, 50)
+}
+
+.card {
+    margin-top: 10%;
+    margin-left: 20px;
+    width: 305px;
+    height: 325px;
+}
+
+.card-img-top {
+    max-height: 70%
+}
+
+.pagination {
+    margin-top: 2%;
+    margin-bottom: 0%;
+    margin-left: 2%;
+}
+
+.paintings {
+    margin-bottom: 2%;
+}

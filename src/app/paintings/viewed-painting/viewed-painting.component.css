@@ -1,0 +1,21 @@
+.viewed-painting {
+    margin: auto;
+    margin-top: 5%;
+    width: 60%;
+    padding: 10px;
+}
+
+.fa.fa-window-close {
+    font-size: 2em;
+    color: tomato;
+}
+
+.fa.fa-download {
+    font-size: 2em;
+    color: tomato;
+    margin-top: 25px;
+}
+
+ul {
+    list-style-type: none;
+}
